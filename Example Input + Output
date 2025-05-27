@@ -1,0 +1,19 @@
+Input:
+Image: sample_image.jpg
+
+Location: Los Angeles, CA
+
+Roof Type: Tilted
+
+Electricity Rate: $0.25/kWh
+
+Output (output_report.pdf):
+Usable area: 28.5 m²
+
+Recommended system: 5.2 kW
+
+Estimated output: 7,200 kWh/year
+
+Cost: $13,000 (after incentives: $10,000)
+
+ROI: 6.4 years
